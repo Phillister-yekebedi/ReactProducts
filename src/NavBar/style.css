@@ -1,0 +1,11 @@
+.navbar{
+    display: flex;
+    background: #e3bc9a; 
+    padding: 3rem;
+    gap: 3rem;
+    text-decoration: none;
+}
+.navbar img{
+    margin-right: 65rem;
+    height: 5rem;
+} 
